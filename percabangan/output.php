@@ -6,19 +6,7 @@
     <title>Hitung Gaji</title>
 </head>
 <body>
-    <h1>Hitung Gaji Pokok dan Gaji Lembur</h1>
-    <form method="post">
-        <label for="gajiPokok">Gaji Pokok:</label>
-        <input type="number" name="gajiPokok" id="gajiPokok" required><br><br>
-
-        <label for="jamKerja">Jumlah Jam Kerja:</label>
-        <input type="number" name="jamKerja" id="jamKerja" required><br><br>
-
-        <label for="tarifLembur">Tarif Lembur per Jam:</label>
-        <input type="number" name="tarifLembur" id="tarifLembur" required><br><br>
-
-        <button type="submit">Hitung</button>
-    </form>
+   
 
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {

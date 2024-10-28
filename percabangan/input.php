@@ -21,7 +21,7 @@
         <html>
 
         <head>
-            <title>Menentukan Bilangan Terbesar Dari 3 BIlangan</title>
+            <title>Menentukan Bilangann Terbesar Dari 3 BIlangan</title>
         </head>
 
         <body>

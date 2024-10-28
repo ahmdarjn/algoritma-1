@@ -2,7 +2,7 @@
 
 <body>
 	<h1>Identifikasi pengguna (login)</h1><br><br>
-	<form method="GET" action="include.php">
+	<form method="GET" action="input.php">
 		Input Nama  :
 		<input type="text" name="nama" required><br><br>
 		Input Email  :
