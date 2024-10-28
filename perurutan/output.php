@@ -12,7 +12,7 @@ echo "Luas permukaan kubus dengan sisi $sisi adalah $luas.";
 
 <p>
 <a href="input.php">
-      <button>Kembali ke Input</button>
+      <button>Kembalii ke Input</button>
 </a>
 </p>
 

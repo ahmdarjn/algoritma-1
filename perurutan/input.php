@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h4>Selamat datang <strong style="-webkit-text-fill-color: blue; text-transform:uppercase">
+    <h4>Selamat datangg <strong style="-webkit-text-fill-color: blue; text-transform:uppercase">
          <?echo $_GET['nama'] ?> </strong>di Program Project Perurutan Notasi Algoritma </h4>
     <table>
     <th>
